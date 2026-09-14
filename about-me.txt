@@ -1,1 +1,4 @@
-
+I am a BBS student from Nepal.
+I am learning GitHub and programming from the beginning.
+I want to develop practical computer skills.
+I want to eventually build my own projects.
